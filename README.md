@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project, titled "Airbnb Analysis," explores data related to the travel industry, property management, and tourism. The primary objective is to gain insights from Airbnb data using Python scripting, data preprocessing, and visualization techniques. Additionally, we aim to perform Exploratory Data Analysis (EDA), build a user-friendly interface using Streamlit, and store data in MongoDB. Finally, we plan to utilize PowerBI or Tableau for advanced data visualization.
+This "Airbnb Analysis," explores data related to the travel industry, property management, and tourism. The primary objective is to gain insights from Airbnb data using Python scripting, data preprocessing, and visualization techniques. Additionally, we aim to perform Exploratory Data Analysis (EDA), build a user-friendly interface using Streamlit, and store data in MongoDB. Finally, we plan to utilize PowerBI or Tableau for advanced data visualization.
 
 ## Skills Gained
 
